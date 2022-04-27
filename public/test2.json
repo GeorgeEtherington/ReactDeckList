@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "type":"Monster",
+    "quantity": "4",
+    "name": "UwUmon",
+    "img": "https://ms.yugipedia.com/6/61/BlueEyesWhiteDragon-MVP1-EN-UR-LE.png"
+  },
+  {
+    "id":2,
+    "type":"Dubious Little Creature",
+    "quantity": "2",
+    "name": "Kirby",
+    "img": "http://3.bp.blogspot.com/-rDfyf7j28G8/T_Sh5P8gbhI/AAAAAAAAGbo/QFHA4nzh7So/s1600/kirby.jpg"
+  }
+
+  ]
