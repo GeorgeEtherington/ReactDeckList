@@ -1,11 +1,9 @@
-import logo from "./logo.svg";
 import "./App.css";
-import DecklistComp from "./DecklistComp";
-import TestJSONParser from "./TestJSONParser";
+import WebpageExample from "./WebpageExample";
 function App() {
   return (
     <div className="App">
-      <TestJSONParser file={"./test2.json"} />
+      <WebpageExample />
     </div>
   );
 }

@@ -1,17 +1,21 @@
 [
   {
-    "id":1,
+    "id":"1",
     "type":"Monster",
     "quantity": "4",
-    "name": "UwUmon",
-    "img": "https://ms.yugipedia.com/6/61/BlueEyesWhiteDragon-MVP1-EN-UR-LE.png"
+    "name": "Nirvana High Paladin",
+    "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6e3248ca-b4ca-45f2-98d8-0c50ebd52f42/dbe407g-568227b1-fd06-4e5f-bdde-3746bb85adfc.png/v1/fill/w_600,h_875,q_80,strp/nirvana_high_paladin_by_kai1411_dbe407g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODc1IiwicGF0aCI6IlwvZlwvNmUzMjQ4Y2EtYjRjYS00NWYyLTk4ZDgtMGM1MGViZDUyZjQyXC9kYmU0MDdnLTU2ODIyN2IxLWZkMDYtNGU1Zi1iZGRlLTM3NDZiYjg1YWRmYy5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ZkHsisVo11xawAKIL2GK5QypChtQP0X13cQtNtToLFQ",
+    "text1": "Pendulum Effect: If a Pendulum Monster you control attacks, for that battle, it cannot be destroyed by battle, also you take no battle damage. At the end of the Damage Step, if a Pendulum Monster you control attacked: All monsters your opponent currently controls lose ATK equal to that attacking monster's ATK, until the end of this turn.",
+    "text2": "Monster Effect: 1 Tuner + 1 or more non-Tuner Synchro Monsters\nFor this card's Synchro Summon, you can treat 1 Pendulum Summoned Pendulum Monster you control as a Tuner. If this card is Synchro Summoned using a Pendulum Summoned Pendulum Monster Tuner: You can target 1 card in your Graveyard; add it to your hand. When this card destroys an opponent's monster by battle: You can halve your opponent's LP. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+    "text3": "ATK/3300, DEF/2500"
   },
   {
     "id":2,
     "type":"Dubious Little Creature",
     "quantity": "2",
     "name": "Kirby",
-    "img": "http://3.bp.blogspot.com/-rDfyf7j28G8/T_Sh5P8gbhI/AAAAAAAAGbo/QFHA4nzh7So/s1600/kirby.jpg"
+    "img": "http://3.bp.blogspot.com/-rDfyf7j28G8/T_Sh5P8gbhI/AAAAAAAAGbo/QFHA4nzh7So/s1600/kirby.jpg",
+    "text1": "This is no good"
   }
 
   ]
